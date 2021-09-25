@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lil Duffel &#8211; Minh&#039;s WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/lil-duffel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenquocmin.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 06:39:57 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Lil Duffel</title>
+		<link>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/lil-duffel/</link>
+					<comments>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/lil-duffel/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyen Quoc Minh]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 06:39:57 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenquocmin.github.io/mywordpress/?post_type=product&#038;p=511</guid>
+
+					<description><![CDATA[Lil Duffel]]></description>
+										<content:encoded><![CDATA[<p>Lil Duffel</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/lil-duffel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
