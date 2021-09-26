@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/home-decor/skin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenquocmin.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 25 Sep 2021 07:42:18 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 02:57:47 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>NIKE SPORTSWEAR</title>
-		<link>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/nike-sportswear/</link>
-					<comments>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/nike-sportswear/#respond</comments>
+		<link>https://nguyenquocmin.github.io/mywordpress/product/nike-sportswear/</link>
+					<comments>https://nguyenquocmin.github.io/mywordpress/product/nike-sportswear/#respond</comments>
 		
 		<dc:creator><![CDATA[Nguyen Quoc Minh]]></dc:creator>
 		<pubDate>Sat, 25 Sep 2021 07:41:42 +0000</pubDate>
@@ -32,15 +32,15 @@
 										<content:encoded><![CDATA[<p>NIKE SPORTSWEAR</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/nike-sportswear/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/product/nike-sportswear/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Converse X Suicidal Tendencies Long Sleeve Tee</title>
-		<link>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-x-suicidal-tendencies-long-sleeve-tee/</link>
-					<comments>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-x-suicidal-tendencies-long-sleeve-tee/#respond</comments>
+		<link>https://nguyenquocmin.github.io/mywordpress/product/converse-x-suicidal-tendencies-long-sleeve-tee/</link>
+					<comments>https://nguyenquocmin.github.io/mywordpress/product/converse-x-suicidal-tendencies-long-sleeve-tee/#respond</comments>
 		
 		<dc:creator><![CDATA[Nguyen Quoc Minh]]></dc:creator>
 		<pubDate>Sat, 25 Sep 2021 06:33:15 +0000</pubDate>
@@ -50,15 +50,15 @@
 										<content:encoded><![CDATA[<p>Converse X Suicidal Tendencies Long Sleeve Tee</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-x-suicidal-tendencies-long-sleeve-tee/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/product/converse-x-suicidal-tendencies-long-sleeve-tee/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Converse Star Chevron Jogger</title>
-		<link>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-star-chevron-jogger/</link>
-					<comments>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-star-chevron-jogger/#respond</comments>
+		<link>https://nguyenquocmin.github.io/mywordpress/product/converse-star-chevron-jogger/</link>
+					<comments>https://nguyenquocmin.github.io/mywordpress/product/converse-star-chevron-jogger/#respond</comments>
 		
 		<dc:creator><![CDATA[Nguyen Quoc Minh]]></dc:creator>
 		<pubDate>Sat, 25 Sep 2021 06:27:55 +0000</pubDate>
@@ -68,15 +68,15 @@
 										<content:encoded><![CDATA[<p>Converse Star Chevron Jogger</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-star-chevron-jogger/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/product/converse-star-chevron-jogger/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Converse Collegiate Text SS Tee</title>
-		<link>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-collegiate-text-ss-tee/</link>
-					<comments>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-collegiate-text-ss-tee/#respond</comments>
+		<link>https://nguyenquocmin.github.io/mywordpress/product/converse-collegiate-text-ss-tee/</link>
+					<comments>https://nguyenquocmin.github.io/mywordpress/product/converse-collegiate-text-ss-tee/#respond</comments>
 		
 		<dc:creator><![CDATA[Nguyen Quoc Minh]]></dc:creator>
 		<pubDate>Sat, 25 Sep 2021 06:14:13 +0000</pubDate>
@@ -88,15 +88,15 @@ SS Tee]]></description>
 Text SS Tee</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-collegiate-text-ss-tee/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/product/converse-collegiate-text-ss-tee/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Converse “Metal CONS” Pull Over Hoodie</title>
-		<link>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-metal-cons-pull-over-hoodie/</link>
-					<comments>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-metal-cons-pull-over-hoodie/#respond</comments>
+		<link>https://nguyenquocmin.github.io/mywordpress/product/converse-metal-cons-pull-over-hoodie/</link>
+					<comments>https://nguyenquocmin.github.io/mywordpress/product/converse-metal-cons-pull-over-hoodie/#respond</comments>
 		
 		<dc:creator><![CDATA[Nguyen Quoc Minh]]></dc:creator>
 		<pubDate>Sat, 25 Sep 2021 04:24:55 +0000</pubDate>
@@ -106,7 +106,7 @@ Text SS Tee</p>
 										<content:encoded><![CDATA[<p>Converse “Metal CONS” Pull Over Hoodie</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/sản%20phẩm/converse-metal-cons-pull-over-hoodie/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/product/converse-metal-cons-pull-over-hoodie/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
