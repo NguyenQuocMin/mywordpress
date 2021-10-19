@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Shoes &#8211; Minh&#039;s WordPress</title>
+	<title>Shoes &#8211; Minh&#039;s Shop</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/home-decor/shoes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenquocmin.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 03:53:04 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Sun, 10 Oct 2021 11:37:22 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>Miếng lót giày</title>
+		<link>https://nguyenquocmin.github.io/mywordpress/product/mieng-lot-giay/</link>
+					<comments>https://nguyenquocmin.github.io/mywordpress/product/mieng-lot-giay/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyen Quoc Minh]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 14:52:19 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenquocmin.github.io/mywordpress/?post_type=product&#038;p=615</guid>
+
+					<description><![CDATA[Miếng lót giày]]></description>
+										<content:encoded><![CDATA[<p>Miếng lót giày</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/product/mieng-lot-giay/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>NIKE GRAPHIC</title>
 		<link>https://nguyenquocmin.github.io/mywordpress/product/nike-graphic/</link>
 					<comments>https://nguyenquocmin.github.io/mywordpress/product/nike-graphic/#respond</comments>
@@ -177,24 +195,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/product/chuck-taylor-all-star-70-full-gator-hi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Chuck 70 Archive Prints Hi</title>
-		<link>https://nguyenquocmin.github.io/mywordpress/product/chuck-70-archive-prints-hi/</link>
-					<comments>https://nguyenquocmin.github.io/mywordpress/product/chuck-70-archive-prints-hi/#respond</comments>
-		
-		<dc:creator><![CDATA[Nguyen Quoc Minh]]></dc:creator>
-		<pubDate>Sat, 25 Sep 2021 06:49:46 +0000</pubDate>
-				<guid isPermaLink="false">https://nguyenquocmin.github.io/mywordpress/?post_type=product&#038;p=523</guid>
-
-					<description><![CDATA[Chuck 70 Archive Prints Hi]]></description>
-										<content:encoded><![CDATA[<p>Chuck 70 Archive Prints Hi</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://nguyenquocmin.github.io/mywordpress/product/chuck-70-archive-prints-hi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

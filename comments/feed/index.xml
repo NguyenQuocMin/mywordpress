@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Minh&#039;s WordPress	</title>
+	Bình luận cho Minh&#039;s Shop	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenquocmin.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 11:31:42 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Tue, 19 Oct 2021 16:46:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
